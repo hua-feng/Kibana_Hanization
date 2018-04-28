@@ -1,31 +1,31 @@
 [
   {
-    "path": "src/core_plugins/kibana/index.js",
+    "path": "/src/core_plugins/kibana/index.js",
     "en": "title: 'Discover'",
     "cn": "title: '发现'"
   },
   {
-    "path": "src/core_plugins/kibana/index.js",
+    "path": "/src/core_plugins/kibana/index.js",
     "en": "title: 'Visualize'",
     "cn": "title: '可视化'"
   },
   {
-    "path": "src/core_plugins/kibana/index.js",
+    "path": "/src/core_plugins/kibana/index.js",
     "en": "title: 'Dashboard'",
     "cn": "title: '仪表盘'"
   },
   {
-    "path": "src/core_plugins/kibana/index.js",
+    "path": "/src/core_plugins/kibana/index.js",
     "en": "title: 'Dev Tools'",
     "cn": "title: '开发工具'"
   },
   {
-    "path": "src/core_plugins/kibana/index.js",
+    "path": "/src/core_plugins/kibana/index.js",
     "en": "title: 'Management'",
     "cn": "title: '管理'"
   },
   {
-    "path": "src/core_plugins/timelion/index.js",
+    "path": "/src/core_plugins/timelion/index.js",
     "en": "title: 'Timelion'",
     "cn": "title: '时间线'"
   },
@@ -745,7 +745,7 @@
     "cn": "没有和您的查询相匹配的仪表盘\\n"
   },
   {
-    "path": "src/core_plugins/kibana/public/dashboard/listing/dashboard_listing.html",
+    "path": "/src/core_plugins/kibana/public/dashboard/listing/dashboard_listing.html",
     "en": "No dashboards matched your search.",
     "cn": "没有和您的查询相匹配的仪表盘"
   },
@@ -2791,8 +2791,17 @@
   },
   {
     "path": "/optimize/bundles/kibana.bundle.js",
-    "en": "I see you are looking at an index with a date field. It is possible your query does not match anything in the current time range, or that there is no data at all in the currently selected time range. Click the button below to open the time picker. For future reference you can open the time picker by clicking on the\\n",
-    "cn": "我看到您正在查看带有日期字段的索引。您的查询可能与当前时间范围内的任何内容都不匹配，或者在当前选定的时间范围内没有任何数据。单击下面的按钮打开时间选择器。为了将来引用，您可以通过单击屏幕右上方的\\n"
+    "en": "I see you are looking at an index with a date field. It is possible your query does not match anything in the current time range, or that there is no data at all in the currently selected time range. Click the button below to open the time picker. For future reference you can open the time picker by clicking on the",
+    "cn": "我看到您正在查看带有日期字段的索引。您的查询可能与当前时间范围内的任何内容都不匹配，或者在当前选定的时间范围内没有任何数据。单击下面的按钮打开时间选择器。为了将来引用，您可以通过单击屏幕右上方的"
+  },  
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "</span> time picker</a>",
+    "cn": "</span> 时间选择器</a>"
+  },  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "\n    may contain partial data. <br> The selected time range does not fully cover it.\n",
+    "cn": "\n    可能包含部分数据。 <br> 选定的时间范围不能完全覆盖它。\n"
   },
   {
     "path": "/optimize/bundles/kibana.bundle.js",
